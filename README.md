@@ -28,16 +28,16 @@ This is what you will see when you run the code:
 
 ### Screenshots
 *Final image*
-![black and white final](https://github.com/lorossi/lissajous/final/frames/selected_frames/black-and-white-frame-1799)  
-![colored final](https://github.com/lorossi/lissajous/frames/final/selected_frames/color-frame-1799)  
+![black and white final](https://github.com/lorossi/lissajous/final/selected_frames/black-and-white-frame-1799)  
+![colored final](https://github.com/lorossi/lissajous/final/selected_frames/color-frame-1799)  
 
 *Midway screenshot*
-![black and white midway](https://github.com/lorossi/lissajous/final/frames/selected_frames/black-and-white-frame-390)  
-![colored final midway](https://github.com/lorossi/lissajous/final/frames/selected_frames/color-frame-324)  
+![black and white midway](https://github.com/lorossi/lissajous/final/selected_frames/black-and-white-frame-390)  
+![colored final midway](https://github.com/lorossi/lissajous/final/selected_frames/color-frame-324)  
 
 ### Video
-![black and white video](https://github.com/lorossi/lissajous/final/frames/videos/black-and-white.mp4)  
-![colored final midway](https://github.com/lorossi/lissajous/final/frames/videos/colors.mp4)  
+![black and white video](https://github.com/lorossi/lissajous/final/videos/black-and-white.mp4)  
+![colored final midway](https://github.com/lorossi/lissajous/final/videos/colors.mp4)  
 
 # Licensing
 This project is distributed under Attribution 4.0 International (CC BY 4.0) license.
