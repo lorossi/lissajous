@@ -36,8 +36,10 @@ I programmed the code with a few shortcuts:
 ![colored final midway](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/color-frame-324.png)  
 
 ### Video
-![black and white video](https://github.com/lorossi/lissajous/blob/master/final/videos/black_and_white.mp4)  
-![colored final midway](https://github.com/lorossi/lissajous/blob/master/final/videos/colors.mp4)  
+These are some converted GIFs (they look pretty choppy!). Inside the folder *final/videos* you will find some higher quality videos (all recorded in *as-smooth-as-butter* 120 fps).
+
+![black and white video](https://github.com/lorossi/lissajous/blob/master/final/videos/black_and_white.gif)  
+![colored final midway](https://github.com/lorossi/lissajous/blob/master/final/videos/colors.gif)  
 
 # Licensing
 This project is distributed under Attribution 4.0 International (CC BY 4.0) license.
