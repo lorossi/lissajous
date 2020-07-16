@@ -24,7 +24,7 @@ I programmed the code with a few shortcuts:
 7. *Click* on the window to reset the animation
 
 ## Output
-This is what you will see when you run the code:
+**This is what you will see when you run the code:**
 
 ### Screenshots
 *Final image*
@@ -32,12 +32,12 @@ This is what you will see when you run the code:
 ![colored final](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/color-frame-1799.png)  
 
 *Midway screenshot*
-![black and white midway](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/color-frame-1799.png)  
+![black and white midway](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/color-frame-324.png)  
 ![colored final midway](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/color-frame-324.png)  
 
 ### Video
-![black and white video](https://github.com/lorossi/lissajous/final/videos/black-and-white.mp4)  
-![colored final midway](https://github.com/lorossi/lissajous/final/videos/colors.mp4)  
+![black and white video](https://github.com/lorossi/lissajous/blob/master/final/videos/black_and_white.mp4)  
+![colored final midway](https://github.com/lorossi/lissajous/blob/master/final/videos/colors.mp4)  
 
 # Licensing
 This project is distributed under Attribution 4.0 International (CC BY 4.0) license.
