@@ -37,7 +37,7 @@ These are some converted GIFs (they look pretty choppy and with a lot of artifac
 ![colored final](https://github.com/lorossi/lissajous/blob/master/output/selected_frames/color-frame-1799.png)  
 
 *Midway screenshots*
-![black and white midway](https://github.com/lorossi/lissajous/blob/master/output/selected_frames/color-frame-324.png)  
+![black and white midway](https://github.com/lorossi/lissajous/blob/master/output/selected_frames/black-and-white-frame-390.png)  
 ![colored final midway](https://github.com/lorossi/lissajous/blob/master/output/selected_frames/color-frame-324.png)  
 
 # Licensing
