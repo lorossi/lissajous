@@ -25,21 +25,20 @@ I programmed the code with a few shortcuts:
 
 ## Output
 **This is what you will see when you run the code:**
-
-### Screenshots
-*Final image*
-![black and white final](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/black-and-white-frame-1799.png)  
-![colored final](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/color-frame-1799.png)  
-
-*Midway screenshot*
-![black and white midway](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/color-frame-324.png)  
-![colored final midway](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/color-frame-324.png)  
-
 ### Video
-These are some converted GIFs (they look pretty choppy!). Inside the folder *final/videos* you will find some higher quality videos (all recorded in *as-smooth-as-butter* 120 fps).
+These are some converted GIFs (they look pretty choppy and with a lot of artifacts!). Inside the folder */final/videos/* you will find some higher quality videos (all recorded in *as-smooth-as-butter* 120 fps).
 
 ![black and white video](https://github.com/lorossi/lissajous/blob/master/final/videos/black_and_white.gif)  
 ![colored final midway](https://github.com/lorossi/lissajous/blob/master/final/videos/colors.gif)  
+
+### Screenshots
+*Final images*
+![black and white final](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/black-and-white-frame-1799.png)  
+![colored final](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/color-frame-1799.png)  
+
+*Midway screenshots*
+![black and white midway](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/color-frame-324.png)  
+![colored final midway](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/color-frame-324.png)  
 
 # Licensing
 This project is distributed under Attribution 4.0 International (CC BY 4.0) license.
