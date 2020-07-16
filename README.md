@@ -28,12 +28,12 @@ This is what you will see when you run the code:
 
 ### Screenshots
 *Final image*
-![black and white final](https://github.com/lorossi/lissajous/final/selected_frames/black-and-white-frame-1799.png)  
-![colored final](https://github.com/lorossi/lissajous/final/selected_frames/color-frame-1799.png)  
+![black and white final](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/black-and-white-frame-1799.png)  
+![colored final](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/color-frame-1799.png)  
 
 *Midway screenshot*
-![black and white midway](https://github.com/lorossi/lissajous/final/selected_frames/black-and-white-frame-390.png)  
-![colored final midway](https://github.com/lorossi/lissajous/final/selected_frames/color-frame-324.png)  
+![black and white midway](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/color-frame-1799.png)  
+![colored final midway](https://github.com/lorossi/lissajous/blob/master/final/selected_frames/color-frame-324.png)  
 
 ### Video
 ![black and white video](https://github.com/lorossi/lissajous/final/videos/black-and-white.mp4)  
