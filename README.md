@@ -10,7 +10,7 @@ Formulas are lame, but sometimes they are special and generate really interestin
 Clone the repository on your pc and open it with Processing. It's as easy as that.
 
 ### Settings
-All the variables inside the file named `settings.pde` can be changed by the final user (you). Feel free to edit them and to experiment a little bit with the final product. 
+All the variables inside the file named `settings.pde` can be changed by the final user (you). Feel free to edit them and to experiment a little bit with the final product.
 Next to each variable there's a comment describing what it does.
 
 ### Commands
@@ -26,7 +26,7 @@ I programmed the code with a few shortcuts:
 ## Output
 **This is what you will see when you run the code:**
 ### Video
-These are some converted GIFs (they look pretty choppy and with a lot of artifacts!). Inside the folder */output/videos/* you will find some higher quality videos (all recorded in *as-smooth-as-butter* 120 fps).
+These are some converted GIFs (they look pretty choppy!). Inside the folder */output/videos/* you will find some higher quality videos (all recorded in *as-smooth-as-butter* 120 fps).
 
 ![black and white video](https://github.com/lorossi/lissajous/blob/master/output/videos/black_and_white.gif)  
 ![colored final midway](https://github.com/lorossi/lissajous/blob/master/output/videos/colors.gif)  
