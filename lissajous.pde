@@ -240,14 +240,12 @@ void draw() {
 
 void keyPressed() {
   // press q to toggle black and white or colored
-  // press w bar to show fps
+  // press w to show fps
   // press e to start/stop recording
   // press r to toggle rotation direction
   // press up/down arrow to set initial phase (step of PI/4)
   // pres left/right to set duration time (1 second setps)
 
-
-  println(keyCode);
   if (key == 'q') { // q
     resetDrawing();
     for (Curve c : curves) {
